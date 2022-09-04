@@ -11,7 +11,3 @@ Recomendo a utilização de Python 3.7 ou mais recente.
 The script generates passwords according to the size and what might be in the password that you type.
 
 Python 3.7 or later is recommended to run this script.
-
-## Licença
-
-GNU General Public License v3.0
